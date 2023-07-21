@@ -3,9 +3,7 @@
     "open_ai_api_base": "https://chimeragpt.adventblocks.cc/v1",
     "model": "gpt-4",
     
-    "proxy": {
-        "http": "http://host.docker.internal:10809",
-        "https": "http://host.docker.internal:10809"
+    "proxy": "",
     },
 
     "hot_reload": false,
